@@ -1,0 +1,7 @@
+this is a master file
+this is a new line in master file
+this is the third line in master file
+this is fourth line in develop
+5th line
+
+we have to finish chapter 3-6 in watson
