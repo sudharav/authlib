@@ -3,3 +3,7 @@ this is a new line in master file
 this is the third line in master file
 this is fourth line in develop
 5th line
+I am writing a lot nowadays
+
+page 12 - 13
+next chapter is about machine learning
